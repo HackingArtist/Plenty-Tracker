@@ -104,8 +104,7 @@ async def on_message(message):
 
 Alive()
 
-BOT_TOKEN='OTMxNTg1MDIzOTkwMTk0MjM3.YeGkKQ.GncAK_B7CqYeN0uqOWJSnSI4UlI'
-client.run(BOT_TOKEN)
+#bot token to be added
  
   
   #temp = compareTotalSupply(prevTotalSupply, currentTotalSupply,threshold)
